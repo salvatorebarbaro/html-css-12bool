@@ -1,0 +1,26 @@
+
+
+.test
+{
+    border: dashed red 1px;
+}
+[class*="col-"]
+{
+    background-color: blue;
+    padding: 2px;
+    min-height: 20px;
+}
+.container
+{
+    color: white;
+}
+h2
+{
+    margin-bottom: 10px;
+    color: black;
+}
+.nasted{
+    background-color: greenyellow;
+    border: black 1px solid;
+}
+
